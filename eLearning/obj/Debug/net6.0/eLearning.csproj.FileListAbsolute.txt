@@ -68,3 +68,4 @@ C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLe
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\eLearning.pdb
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\eLearning.genruntimeconfig.cache
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\ref\eLearning.dll
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\eLearning.sourcelink.json

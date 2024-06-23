@@ -24,6 +24,13 @@ builder.Services.AddSingleton(builder.Environment);
 
 builder.Services.AddScoped<ISliderService, SliderService>();
 builder.Services.AddScoped<IAboutService, AboutService>();
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<ICourseService, CourseService>();
+builder.Services.AddScoped<IInstructorService, InstructorService>();
+builder.Services.AddScoped<IStudentService, StudentService>();
+builder.Services.AddScoped<IContactService, ContactService>();
+builder.Services.AddScoped<IInformationIconService, InformationIconService>();
+
 
 
 var app = builder.Build();

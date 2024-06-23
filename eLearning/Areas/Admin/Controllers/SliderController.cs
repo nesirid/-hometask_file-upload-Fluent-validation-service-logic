@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using eLearning.DTOs.Sliders;
 using eLearning.Models;
+using eLearning.Services;
 using eLearning.Services.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -127,10 +128,12 @@ namespace eLearning.Areas.Admin.Controllers
             return NoContent();
         }
 
-
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
+            var existingSlider = await _sliderService.GetByIdAsync(id);
+            if (existingSlider == null) return NotFound();
+
             await _sliderService.DeleteAsync(id);
             return NoContent();
         }

@@ -21,7 +21,7 @@ namespace eLearning.Data
         public DbSet<CourseStudent> CourseStudents { get; set; }
         public DbSet<Contact> Contacts { get; set; }
         public DbSet<InformationIcon> InformationIcons { get; set; }
-
+        public DbSet<Social> Socials { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

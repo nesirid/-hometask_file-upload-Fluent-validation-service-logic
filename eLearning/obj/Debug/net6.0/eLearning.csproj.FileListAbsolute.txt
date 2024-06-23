@@ -1,5 +1,5 @@
-C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\bin\Debug\net6.0\appsettings.json
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\bin\Debug\net6.0\appsettings.json
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\bin\Debug\net6.0\eLearning.staticwebassets.runtime.json
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\bin\Debug\net6.0\eLearning.exe
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\bin\Debug\net6.0\eLearning.deps.json
@@ -54,6 +54,7 @@ C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLe
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\eLearning.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\eLearning.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\eLearning.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\eLearning.sourcelink.json
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\staticwebassets\msbuild.eLearning.Microsoft.AspNetCore.StaticWebAssets.props
@@ -68,4 +69,3 @@ C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLe
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\eLearning.pdb
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\eLearning.genruntimeconfig.cache
 C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\ref\eLearning.dll
-C:\Users\user\Desktop\For Programing Education\BACKEND\API\eLearning SWAGGER\eLearning-Project-APIApp\eLearning\obj\Debug\net6.0\eLearning.sourcelink.json

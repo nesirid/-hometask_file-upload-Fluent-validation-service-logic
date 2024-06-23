@@ -10,6 +10,7 @@ using eLearning.DTOs.Students;
 using eLearning.DTOs.CourseStudents;
 using eLearning.DTOs.Contacts;
 using eLearning.DTOs.InformationIcons;
+using eLearning.DTOs.Socials;
 
 namespace eLearning.Helpers
 {
@@ -80,6 +81,11 @@ namespace eLearning.Helpers
             CreateMap<InformationIconDto, InformationIcon>();
             CreateMap<InformationIconCreateDto, InformationIcon>();
             CreateMap<InformationIconEditDto, InformationIcon>();
+            //Social
+            CreateMap<Social, SocialDto>();
+            CreateMap<SocialDto, Social>();
+            CreateMap<SocialCreateDto, Social>();
+            CreateMap<SocialEditDto, Social>();
         }
     }
 }
